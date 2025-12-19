@@ -358,9 +358,6 @@ export default function LandingPage() {
             { icon: Youtube, href: "https://youtube.com/zoomadrid", ariaLabel: "Zoo Madrid YouTube" }
           ]}
           copyrightText="© Zoo Madrid 2025. All rights reserved."
-          footerClassName="bg-green-900"
-          className="bg-green-900"
-          containerClassName="bg-green-900"
         />
       </div>
     </ThemeProvider>
