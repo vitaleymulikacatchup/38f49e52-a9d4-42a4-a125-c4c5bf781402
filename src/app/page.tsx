@@ -116,7 +116,7 @@ export default function LandingPage() {
               price: "Included",
               rating: 5,
               reviewCount: "1.9k",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=6lu9x3",
+              imageSrc: "",
               imageAlt: "Majestic elephants in habitat"
             },
             {
