@@ -106,7 +106,7 @@ export default function LandingPage() {
               price: "Included",
               rating: 5,
               reviewCount: "2.4k",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=cfgj4x",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766155709105-ogatv45j.jpg",
               imageAlt: "Lions in African savanna zone"
             },
             {
@@ -116,7 +116,7 @@ export default function LandingPage() {
               price: "Included",
               rating: 5,
               reviewCount: "1.9k",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=6lu9x3",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766155708478-ce3eoox3.jpg",
               imageAlt: "Majestic elephants in habitat"
             },
             {
@@ -126,7 +126,7 @@ export default function LandingPage() {
               price: "Included",
               rating: 5,
               reviewCount: "1.7k",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=2lyrmp",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766155709618-jhl9182r.jpg",
               imageAlt: "Various primates interacting"
             },
             {
@@ -136,7 +136,7 @@ export default function LandingPage() {
               price: "Included",
               rating: 5,
               reviewCount: "1.3k",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=pru5cs",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766155710079-64q1uj68.jpg",
               imageAlt: "Colorful exotic birds"
             }
           ]}
