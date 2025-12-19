@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
@@ -10,7 +10,7 @@ import MetricCardOne from '@/components/sections/metrics/MetricCardOne';
 import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
 import ContactSplitForm from '@/components/sections/contact/ContactSplitForm';
 import FooterSocial from '@/components/sections/footer/FooterSocial';
-import { Sparkles, Award, Binoculars, Heart, Leaf, BookOpen, Users, TrendingUp, Calendar, Paw, Star, Facebook, Instagram, Twitter, Youtube } from "lucide-react";
+import { Sparkles, Award, Binoculars, Heart, Leaf, BookOpen, Users, TrendingUp, Calendar, PawPrint, Star, Facebook, Instagram, Twitter, Youtube } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -198,7 +198,7 @@ export default function LandingPage() {
               value: "6000",
               title: "Animals",
               description: "From over 700 different species around the world",
-              icon: Paw
+              icon: PawPrint
             },
             {
               id: "3",
